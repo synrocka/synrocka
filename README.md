@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Klim</h1>
-<h3 align="center">A beginner Data & ML Engineer</h3>
+<h3 align="center">Data & ML Engineer</h3>
 
-- 🔭 I’m currently working on **confidential project in Sber**
+- 🔭 I’m currently working on **confidential project in Sber CIB**
 
-- 🌱 I’m currently learning **ML, AI and algorithms**
+- 🌱 I’m currently learning **ML, AI, algorithms, Java and C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
